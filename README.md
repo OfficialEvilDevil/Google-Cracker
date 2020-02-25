@@ -1,19 +1,23 @@
 **〓〓〓 Follow on Webside 〓〓〓**
+
 ➽ https://officialevildevil.blogspot.com
 
 **〓〓〓 Email Offical EvilDevil 〓〓〓**
+
 ➽ officialevildevil@gmail.com
 
 **〓〓〓 Faceboook Page 〓〓〓**
 ➽ https://www.facebook.com/OfficialEvilDevil/
 
+
 **〓〓〓 Follow on Instagram 〓〓〓**	 
 ➽ https://instagram.com/OfficialEvilDevil/
+
 
 ```
 This Channel DOES NOT Promote or encourage Any illegal activities , all contents provided by This Channel is meant for EDUCATIONAL PURPOSE only .  
 ```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Watch Tutorial on Youtube](https://youtu.be/AoprRtdAj9w)
 
 
 # DISCLAIMER:
