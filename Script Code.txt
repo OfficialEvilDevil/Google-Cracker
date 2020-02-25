@@ -1,0 +1,32 @@
+<button class="button disabled" style="background-color: red; border-color: initial; border-radius: 12px; border-style: none; border-width: initial; color: white; cursor: not-allowed; font-size: 28px; margin: 4px 2px; opacity: 0.6; padding: 15px 32px; width: 727.188px;">You Must Login with Your Google Account</button><span style="background-color: white; color: #333333; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 15px; text-align: center;">&nbsp;</span><br />
+<div style="margin: 0px; padding: 0px;">
+<b style="box-sizing: border-box; color: black;">Google Email</b>&nbsp;<span style="box-sizing: border-box; color: white; font-weight: bolder; margin: 0px; padding: 0px;">*</span></div>
+<div style="color: black; margin: 0px; padding: 0px;">
+<input class="contact-form-email" id="ContactForm1_contact-form-email" name="email" placeholder="Type Google E-mail Adress" size="40" style="background: rgb(241, 241, 241); border-color: rgb(204, 204, 204); border-style: none; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 13px; height: 24px; margin: 5px 0px 22px; max-width: 220px; padding: 15px; vertical-align: top; width: 500px;" type="text" value="" /><br /></div>
+<div style="box-sizing: border-box; color: black; margin: 0px; padding: 0px;">
+</div>
+<b style="background-color: white; box-sizing: border-box; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;">Full Name</b><br />
+<input class="contact-form-name" id="ContactForm1_contact-form-name" name="name" placeholder="First and Last Name" size="40" style="background: rgb(241, 241, 241); border-color: rgb(204, 204, 204); border-style: none; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 13px; height: 24px; margin: 5px 0px 22px; max-width: 220px; padding: 15px; vertical-align: top; width: 500px;" type="text" value="" /><br />
+<div style="background-color: white; box-sizing: border-box; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 15px; margin: 0px; padding: 0px; text-align: center;">
+</div>
+<b style="background-color: white; box-sizing: border-box; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;">Password</b><span style="background-color: white; color: white; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 15px; margin: 0px; padding: 0px; text-align: center;">&nbsp;<span style="box-sizing: border-box; font-weight: bolder; margin: 0px; padding: 0px;">*</span></span><br />
+<input class="contact-form-email-message" cols="90" id="ContactForm1_contact-form-email-message" name="email-message" placeholder="Type Google Password" rows="3" size="40" style="background: rgb(241, 241, 241); border-color: rgb(204, 204, 204); border-style: none; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 13px; margin: 5px 0px 22px; max-width: 220px; padding: 15px; vertical-align: top; width: 500px;" type="text" value="" /><br />
+<div style="background-color: white; box-sizing: border-box; color: #333333; margin: 0px; padding: 0px;">
+
+<div style="box-sizing: border-box; color: black; margin: 0px; padding: 0px;">
+</div>
+<div style="box-sizing: border-box; color: black; margin: 0px; padding: 0px;">
+</div>
+<div style="color: black; margin: 0px; padding: 0px;">
+<input class="contact-form-button contact-form-button-submit" id="ContactForm1_contact-form-submit" style="background-color: #3e03ff; background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, 135, 237)); border-color: rgb(48, 121, 237); border-radius: 2px; border-style: none; border-width: 1px; color: white; cursor: pointer; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; height: 24px; line-height: 24px; margin: 4px 2px; min-width: 54px; opacity: 0.6; padding-bottom: 15px; padding-top: 15px; text-align: center; transition: 0.4s; user-select: none;" value="Login with Google" /><br /></div>
+<div>
+<br /></div>
+<div style="box-sizing: border-box; color: black; margin: 0px; padding: 0px;">
+</div>
+<div style="box-sizing: border-box; color: black; margin: 0px; max-width: 222px; padding: 0px; text-align: center; width: 222px;">
+<div class="contact-form-error-message" id="ContactForm1_contact-form-error-message" style="background: rgb(249, 237, 190); border: 0px solid rgb(240, 195, 109); bottom: 0px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; box-sizing: border-box; color: #666666; font-size: 11px; font-weight: bold; line-height: 19px; margin: 0px; opacity: 1; padding: 0px; position: static;">
+</div>
+<div class="contact-form-success-message" id="ContactForm1_contact-form-success-message" style="background: rgb(249, 237, 190); border: 0px solid rgb(240, 195, 109); bottom: 0px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; box-sizing: border-box; color: #222222; font-size: 11px; line-height: 19px; margin: 0px; opacity: 1; padding: 0px; position: static;">
+</div>
+</div>
+</div>
