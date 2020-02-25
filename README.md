@@ -15,7 +15,8 @@
 ➽ https://instagram.com/OfficialEvilDevil/
 
 
-![Tutorial](https://i.ytimg.com/vi/AoprRtdAj9w/maxresdefault.jpg)
+![]()
+[![Tutorial](https://i.ytimg.com/vi/AoprRtdAj9w/maxresdefault.jpg)](https://youtu.be/AoprRtdAj9w)
 
 Please Subscribe My Youytube Channel:
 
