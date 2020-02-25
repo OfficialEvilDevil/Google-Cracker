@@ -10,12 +10,12 @@
 
 ➽ https://www.facebook.com/OfficialEvilDevil/
 
+**〓〓〓 Follow on Instagram 〓〓〓**
 
-**〓〓〓 Follow on Instagram 〓〓〓**	 
 ➽ https://instagram.com/OfficialEvilDevil/
 
 
-![GitHub Logo](/images/logo.png)
+![Tutorial](https://www.youtube.com/watch?v=AoprRtdAj9w)
 
 Please Subscribe My Youytube Channel:
 
