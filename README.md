@@ -1,6 +1,6 @@
 **〓〓〓 Follow on Webside 〓〓〓**
 
-➽ https://officialevildevil.blogspot.com
+➽ http://officialevildevil.epizy.com
 
 **〓〓〓 Email Offical EvilDevil 〓〓〓**
 
